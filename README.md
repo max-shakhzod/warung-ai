@@ -1,11 +1,10 @@
-# 🍛 WarungAI — AI Business Assistant for Malaysian SMEs
+# WarungAI · AI Business Assistant for Malaysian SMEs
 
-> Built for GDGKL x GDG Cloud KL "Build with AI" Hackathon — powered by Google Gemini & Google DeepMind
+> Built for GDGKL x GDG Cloud KL "Build with AI" Hackathon powered by Google Gemini & Google DeepMind
 
 ---
 
-## 🏆 Hackathon Category
-**Digital Economy & SME(s)** — AI Tools for SMEs · Customer Automation · Localized Marketing
+**Digital Economy & SME(s)** AI Tools for SMEs · Customer Automation · Localized Marketing
 
 ---
 
@@ -17,12 +16,12 @@ A typical warung owner faces:
 - Doesn't know which dish is most profitable
 - No idea how to write a Raya promo post
 - Can't afford to hire marketing or admin help
-- Most AI tools are English-only — unusable for them
+- Most AI tools are English-only unusable for them
 
 ---
 
 ## 💡 The Solution
-**WarungAI** is a Gemini-powered business assistant built specifically for Malaysian warung and SME owners. It speaks **BM, English, and Manglish** — just like them.
+**WarungAI** is a Gemini-powered business assistant built specifically for Malaysian warung and SME owners. It speaks **BM, English, and Manglish** just like them.
 
 ### Features
 - 🤖 **AI Chat Assistant** — Ask anything about running your warung
