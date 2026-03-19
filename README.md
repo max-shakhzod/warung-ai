@@ -1,6 +1,6 @@
 # WarungAI · AI Business Assistant for Malaysian SMEs
 
-> Built for GDGKL x GDG Cloud KL "Build with AI" Hackathon powered by Google Gemini & Google DeepMind
+**Built for GDGKL x GDG Cloud KL "Build with AI" Hackathon powered by Google Gemini & Google DeepMind**
 
 ---
 
